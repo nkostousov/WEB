@@ -8,6 +8,6 @@ Testing Web Applications
 
 [Bug Reports Cart management and Order management](https://docs.google.com/spreadsheets/d/1T7JCQhBTDUQ94InTBVViI-9ICKKjL5CovEmoVFfTPQU/edit?usp=sharing)
 
-[Test_Run_Cart_Management_and_Order_Management.pdf](https://github.com/user-attachments/files/22395067/Test_Run_Cart_Management_and_Order_Management.pdf)
+[Test_Run_Cart_Management_and_Order_Management.pdf](https://github.com/user-attachments/files/22435292/Test_Run_Cart_Management_and_Order_Management.pdf)
 
-[Test_Run_Cart_Management_and_Order_Management](https://app.qase.io/run/G101/dashboard/45)
+[Test_Run_Cart_Management_and_Order_Management](https://app.qase.io/run/G101/dashboard/51)
