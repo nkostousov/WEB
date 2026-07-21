@@ -11,7 +11,7 @@ The focus is on validating cart and order management modules — from adding pro
 
 [Bug Reports Cart management and Order management](https://docs.google.com/spreadsheets/d/1T7JCQhBTDUQ94InTBVViI-9ICKKjL5CovEmoVFfTPQU/edit?usp=sharing) — defects found during functional and regression testing, with detailed reproduction steps and expected vs. actual results.
 
-[Test_Run_Cart_Management_and_Order_Management.pdf](https://github.com/user-attachments/files/22435292/Test_Run_Cart_Management_and_Order_Management.pdf) — execution summary exported from **Qase.io**, showing test outcomes and defect statuses after retesting.
+[Test_Run_Cart_Management_and_Order_Management.pdf](https://github.com/user-attachments/files/30232775/1.Test_Run_Cart_Management_and_Order_Management_redacted.pdf) — execution summary exported from **Qase.io**, showing test outcomes and defect statuses after retesting.
 
 ##  What this repo demonstrates
 - Functional and integration testing of a real web application.  
