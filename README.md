@@ -7,8 +7,7 @@ The focus is on validating cart and order management modules — from adding pro
 
 [Check-list Online Store](https://docs.google.com/spreadsheets/d/1uld1bkUVeYDzeNvp-zaeqCXwIfcV9QO0WcP5vs_xfE8/edit?usp=sharing) — structured verification of the main user flows: product catalog, cart, and order placement. 
 
-[Test_suites_Cart_Management_and_Order_Management.pdf]([(1)Test_suites_Cart_Management_and_Order_Management_redacted.pdf](https://github.com/user-attachments/files/30232271/1.Test_suites_Cart_Management_and_Order_Management_redacted.pdf)
-)  grouped cases covering cart operations, order creation, payment methods.
+[Test_suites_Cart_Management_and_Order_Management.pdf]((1)Test_suites_Cart_Management_and_Order_Management_redacted.pdf](https://github.com/user-attachments/files/30232271/1.Test_suites_Cart_Management_and_Order_Management_redacted.pdf)  grouped cases covering cart operations, order creation, payment methods.
 
 [Bug Reports Cart management and Order management](https://docs.google.com/spreadsheets/d/1T7JCQhBTDUQ94InTBVViI-9ICKKjL5CovEmoVFfTPQU/edit?usp=sharing) — defects found during functional and regression testing, with detailed reproduction steps and expected vs. actual results.
 
